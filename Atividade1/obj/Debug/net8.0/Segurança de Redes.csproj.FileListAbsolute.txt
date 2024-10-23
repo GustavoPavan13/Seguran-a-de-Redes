@@ -1,0 +1,14 @@
+C:\Curso DIO\Segurança de Redes\bin\Debug\net8.0\Segurança de Redes.exe
+C:\Curso DIO\Segurança de Redes\bin\Debug\net8.0\Segurança de Redes.deps.json
+C:\Curso DIO\Segurança de Redes\bin\Debug\net8.0\Segurança de Redes.runtimeconfig.json
+C:\Curso DIO\Segurança de Redes\bin\Debug\net8.0\Segurança de Redes.dll
+C:\Curso DIO\Segurança de Redes\bin\Debug\net8.0\Segurança de Redes.pdb
+C:\Curso DIO\Segurança de Redes\obj\Debug\net8.0\Segurança de Redes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso DIO\Segurança de Redes\obj\Debug\net8.0\Segurança de Redes.AssemblyInfoInputs.cache
+C:\Curso DIO\Segurança de Redes\obj\Debug\net8.0\Segurança de Redes.AssemblyInfo.cs
+C:\Curso DIO\Segurança de Redes\obj\Debug\net8.0\Segurança de Redes.csproj.CoreCompileInputs.cache
+C:\Curso DIO\Segurança de Redes\obj\Debug\net8.0\Segurança de Redes.dll
+C:\Curso DIO\Segurança de Redes\obj\Debug\net8.0\refint\Segurança de Redes.dll
+C:\Curso DIO\Segurança de Redes\obj\Debug\net8.0\Segurança de Redes.pdb
+C:\Curso DIO\Segurança de Redes\obj\Debug\net8.0\Segurança de Redes.genruntimeconfig.cache
+C:\Curso DIO\Segurança de Redes\obj\Debug\net8.0\ref\Segurança de Redes.dll
